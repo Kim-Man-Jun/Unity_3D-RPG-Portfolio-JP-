@@ -14,4 +14,4 @@ Unityエンジンをベースにした3D RPGポートフォリオです。
 - リンク : https://drive.google.com/file/d/1Ko2VUEJ-NjcfRmnLwCiKbNVA138e3BLV/view?usp=drive_link
 
 ## Project Video
-- リンク : https://youtu.be/9cFKJDai2tw
+- リンク : https://youtu.be/UXAsyAQK8GY
